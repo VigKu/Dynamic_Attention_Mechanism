@@ -1,9 +1,13 @@
 # Dynamic_Attention_Mechanism
 
-This is our final project for our NLP module in our Masters.
+This is our project for our NLP module.
 
 This project is about the experimental study on dynamic attention mechanism in Deep Pyramid CNN (DPCNN) for sentiment anaysis.
 The experiment has been conducted on 2 datasets namely the financial and tweet datasets. The methodology and results of this project can be found in the report pdf file.
+
+Our codes have been adapted from the following sources:
+# https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/
+# https://www.programmersought.com/article/31037125394/
 
 
 There are sub folders in the SourceCode folder. All the codes are done in colab.
