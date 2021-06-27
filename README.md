@@ -2,7 +2,7 @@
 
 This is our project for our NLP module.
 
-This project is about the experimental study on dynamic attention mechanism in Deep Pyramid CNN (DPCNN) for sentiment anaysis.
+This project is about the experimental study on dynamic attention mechanism in Deep Pyramid CNN (DPCNN) for sentiment analysis.
 The experiment has been conducted on 2 datasets namely the financial and tweet datasets. The methodology and results of this project can be found in the report pdf file.
 
 Our codes have been adapted and merged from the following sources:
